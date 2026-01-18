@@ -1,6 +1,9 @@
 # Project Kelsier
 
-> AI-powered team dynamics platform using deep psychological frameworks and continuous behavioral analysis
+
+> *"There's always another secret."* - Building better teams through deep psychological insight.
+
+> AI-powered team dynamics platform using deep psychological frameworks and continuous behavioral analysis.
 
 ## 🎯 Vision
 
